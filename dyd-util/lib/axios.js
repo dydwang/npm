@@ -1,8 +1,5 @@
 import axios from 'axios'
-import { Message } from 'element-ui'
-
-
-
+import showMessage  from './message.js'  //封装的消息弹框
 /**
  * @param C 返回值
  * */
@@ -65,12 +62,8 @@ Service.interceptors.response.use(response => {
 }, error => {
     console.log('TCL: error', error)
     const msg = error.Message !== undefined ? error.Message : ''
-    Message({
-        message: '网络错误' + msg,
-        type: 'error',
-        duration: 7 * 1000
-    })
-    C=error
+    showMessage("网络错误",3000)
+    C=false
 })
 
 
@@ -89,7 +82,7 @@ export default class dydUtil{
     constructor(serve){
         serveUrl=serve //后台地址
     }
-    util=function(data={}, url, callback, method='post'){
+    util(data={}, url, callback, method='post'){
         utilServe(data,serveUrl+url,callback,method)
     }
 }
