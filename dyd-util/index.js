@@ -1,2 +1,2 @@
-import {util} from './lib/axios.js';
+import util from './lib/axios.js';
 export default util

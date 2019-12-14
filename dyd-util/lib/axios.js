@@ -1,16 +1,18 @@
 import axios from 'axios'
-//import { Message } from 'element-ui'
-import {serveUrl}  from './url'//服务器地址
+import { Message } from 'element-ui'
 
-let C  //返回值
+
+
+/**
+ * @param C 返回值
+ * */
+let C
 let Service = axios.create({
     timeout: 7000, // 请求超时时间
-    baseURL: serveUrl,
     headers: {
         'Content-Type': 'application/json;charset=UTF-8'
     }
 })
-
 /**
  * 返回错误码常量预定义
  */
@@ -22,6 +24,11 @@ const RC = {
 };
 
 /**
+ * @param serveUrl 后台地址
+ * */
+let serveUrl
+
+/**
  *  远程调用方法的封装
  *
  * @param data 传参
@@ -29,8 +36,7 @@ const RC = {
  * @param callback 回调方法
  * @param method  请求方式
  */
-
-export function util(data,url,callback,method='post') {
+let utilServe=function(data,url,callback,method) {
     Service({
         url:url,
         method: method,
@@ -75,4 +81,15 @@ function toFormData(obj) {//数据处理
         formData.append(key, obj[key]);
     }
     return formData;
+}
+
+
+
+export default class dydUtil{
+    constructor(serve){
+        serveUrl=serve //后台地址
+    }
+    util=function(data={}, url, callback, method='post'){
+        utilServe(data,serveUrl+url,callback,method)
+    }
 }
