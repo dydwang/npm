@@ -1,5 +1,6 @@
 import axios from 'axios'
 import showMessage  from './message.js'  //封装的消息弹框
+import encrypt from './crypto.js'
 /**
  * @param C 返回值
  * */
@@ -20,10 +21,6 @@ const RC = {
     AJAXERROR: "ajax error"
 };
 
-/**
- * @param serveUrl 后台地址
- * */
-let serveUrl
 
 /**
  *  远程调用方法的封装
@@ -62,7 +59,7 @@ Service.interceptors.response.use(response => {
 }, error => {
     console.log('TCL: error', error)
     const msg = error.Message !== undefined ? error.Message : ''
-    showMessage("网络错误",3000)
+    showMessage("网络错误",3000,Date.now())
     C=false
 })
 
@@ -71,18 +68,21 @@ Service.interceptors.response.use(response => {
 function toFormData(obj) {//数据处理
     let formData = new FormData();
     for(let key in obj) {
-        formData.append(key, obj[key]);
+        formData.append(key, encrypt(obj[key]));
     }
     return formData;
 }
 
 
 
+/**
+ * @param serveUrl 后台地址
+ * */
 export default class dydUtil{
     constructor(serve){
-        serveUrl=serve //后台地址
+        this.serveUrl=serve //后台地址
     }
     util(data={}, url, callback, method='post'){
-        utilServe(data,serveUrl+url,callback,method)
+        utilServe(data,this.serveUrl+url,callback,method)
     }
 }
