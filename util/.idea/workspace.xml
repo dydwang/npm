@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../views/user/router.js" description="&#10;" line="19" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79748390-6408-407e-8694-6f372812231e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/public/javascripts/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/public/javascripts/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/public/stylesheets/element.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/fun/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/fun/linkMSQ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/friend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/gf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/goods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/miji.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/pay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/pet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/petImg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/sql/table/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/views/mysql.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notFound.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/city_A_Z.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/upImg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/upPdf.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/upVideo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/userImage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/city_A_Z.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/Time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/city.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/routerGo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/userInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/ver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/crypto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/goods/createGoods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/goods/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/goods/upImg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/menu-aside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/menu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/pay/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/pay/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/pay/up.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/sorts/createSort.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/sorts/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/admin/user/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/comment/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/foot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/friend/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/friend/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/friend/info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/friend/my.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/heads.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/home/nowPay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/login/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/login/password.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/login/signUp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/miji/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/miji/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/miji/info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/miji/my.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/friend/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/friend/message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/pay/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/pet/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/pet/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/pet/info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/pet/ranking.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/myHome/upImg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/nearby/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/nearby/info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/selectCity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../views/user/video/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../views/notFound.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/util/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="176" column="1" lean-forward="true" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fun/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="38" column="24" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/url.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="468">
+                <caret line="26" selection-start-line="26" selection-end-line="26" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/axios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/area.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/city_A_Z.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>message</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/axios/axios.js" />
+        <option value="$PROJECT_DIR$/lib/url.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/lib/message.vue" />
+        <option value="$PROJECT_DIR$/lib/message.css" />
+        <option value="$PROJECT_DIR$/lib/message.js" />
+        <option value="$PROJECT_DIR$/lib/crypto.php" />
+        <option value="$PROJECT_DIR$/lib/crypto.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/lib/axios.js" />
+        <option value="$PROJECT_DIR$/util/util.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/fun/index.js" />
+        <option value="$PROJECT_DIR$/util/user.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="util" type="b2602c69:ProjectViewProjectNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="util" type="b2602c69:ProjectViewProjectNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="fun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="util" type="b2602c69:ProjectViewProjectNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2018.3.6\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\npm\dyd-util" />
+      <recent name="E:\git\npm\dyd-util\lib" />
+      <recent name="E:\npm\dyd-util\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\npm\dyd-util\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79748390-6408-407e-8694-6f372812231e" name="Default Changelist" comment="" />
+      <created>1576229948599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576229948599</updated>
+      <workItem from="1576229950389" duration="9570000" />
+      <workItem from="1576246881436" duration="946000" />
+      <workItem from="1576305595174" duration="5091000" />
+      <workItem from="1576314740871" duration="4992000" />
+      <workItem from="1576403284179" duration="8116000" />
+      <workItem from="1576568867425" duration="1443000" />
+      <workItem from="1576648549857" duration="155000" />
+      <workItem from="1576656780100" duration="808000" />
+      <workItem from="1577089061913" duration="771000" />
+      <workItem from="1577178460702" duration="449000" />
+      <workItem from="1580719662844" duration="746000" />
+      <workItem from="1581058417546" duration="607000" />
+      <workItem from="1581689810351" duration="526000" />
+      <workItem from="1581691261632" duration="61000" />
+      <workItem from="1582983569191" duration="3684000" />
+      <workItem from="1583051840350" duration="1868000" />
+      <workItem from="1583081470169" duration="1209000" />
+      <workItem from="1583086254554" duration="7000" />
+      <workItem from="1583140237455" duration="814000" />
+      <workItem from="1583162474813" duration="1849000" />
+      <workItem from="1583167193427" duration="390000" />
+      <workItem from="1583213598310" duration="1225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122023806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.14098361" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49925596" weight="0.12765957" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/UPGRADE_GUIDE.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/index.js" />
+    <entry file="file://$PROJECT_DIR$/lib/url.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/dist/axios.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/lib/axios.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/lib/defaults.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/lib/utils.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/element-ui/types/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/element-ui/types/element-ui.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/element-ui/types/message.d.ts" />
+    <entry file="file://$PROJECT_DIR$/lib/message.vue" />
+    <entry file="file://$PROJECT_DIR$/lib/crypto.php" />
+    <entry file="file://$PROJECT_DIR$/lib/message.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/api/user.js" />
+    <entry file="file://$PROJECT_DIR$/lib/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/crypto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="176" column="1" lean-forward="true" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/area.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/city_A_Z.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
