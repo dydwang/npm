@@ -64,39 +64,10 @@
             success(path){
                 let that=this
                 this.ruleForms.pdfPath=path
-                if(!that.ruleForms.ids)this.ruleForms.ids=Date.now();
-                this.ruleForms.username=this.$userInfo.username
-                if(this.videoFile){
-                    this.$refs.upVideo.submit()
-                }else{
-                    this.$api.addBlog(this.ruleForms,res=>{
-                        if(res){
-                            this.$message.success('发布成功')
-                            if(this.updates){
-                                that.$emit('closeDia',this.ruleForms,this.index)
-                            }else{
-                                that.$emit('closeDia',this.ruleForms)
-                            }
-                        }
-                    })
-                }
-
-
             },
             successVideo(path){
                 let that=this
                 this.ruleForms.videoPath=path
-                this.$api.addBlog(this.ruleForms,res=>{
-                    if(res){
-                        this.$message.success('发布成功')
-                        if(this.updates){
-                            that.$emit('closeDia',this.ruleForms,this.index)
-                        }else{
-                            that.$emit('closeDia',this.ruleForms)
-                        }
-
-                    }
-                })
             },
             changeVideo(file){
                 this.videoFile=file
@@ -122,26 +93,22 @@
                 let that=this
                 this.$refs.ruleForms.validate((valid) => {
                     if (valid) {
-                        if(this.pdfFile){
-                            that.$refs.upPdf.submit()
-                        }else{
-                            if(!that.ruleForms.ids)this.ruleForms.ids=Date.now();
-                            console.log(this.updates)
-                            if(!that.updates){
-                                that.$api.addBlog(this.ruleForms,res=>{
+                            if(!that.ruleForms.ids){
+                                this.ruleForms.ids=Date.now();
+                                that.$api.add('news',this.ruleForms,res=>{
                                     if(res){
                                         that.$message.success('发布成功')
                                         that.$emit('closeDia',this.ruleForms)
                                     }
                                 })
                             }else{
-                                that.$api.upBlog(this.ruleForms,res=>{
+                                that.$api.up('news',this.ruleForms,res=>{
                                     if(res){
                                         that.$emit('closeDia',this.ruleForms,this.index)
                                     }
                                 })
                             }
-                        }
+
 
                     } else {
                         console.log('error submit!!');

@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 
 import user from '../views/user/router'
 import admin from '../views/admin/router'
+import table from '../table/index'
 Vue.use(VueRouter)
 
 const routes = [
@@ -11,7 +12,11 @@ const routes = [
     redirect:'/home'
   },
   ...user,
-  ...admin,
+  ...admin, {
+    path:'/table',
+    name:'table',
+    component:table
+  },
 ]
 
 const router = new VueRouter({

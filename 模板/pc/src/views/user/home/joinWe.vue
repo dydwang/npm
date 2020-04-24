@@ -1,7 +1,7 @@
 <template>
     <div id="comment">
         <div style="text-align: center;font-size: 2.5rem;margin: 3rem 0">
-            <div class="news" >联系客服</div>
+            <div class="news" >反馈问题</div>
             <div style="color: #909399">contact customer service</div>
         </div>
         <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-width="100px" class="demo-ruleForm">
@@ -29,7 +29,7 @@
         data() {
             var checkPhone = (rule, value, callback) => {
                 if (!value) {
-                    return callback(new Error('年龄不能为空'));
+                    return callback(new Error('手机不能为空'));
                 }
                 setTimeout(() => {
                     if (!Number.isInteger(value)) {
@@ -50,7 +50,7 @@
                 },
                 rules: {
                     phone: [
-                        { validator: checkPhone, trigger: 'blur' }
+                        { required: true,validator: checkPhone, trigger: 'blur' }
 
                     ],
                     name: [

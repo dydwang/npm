@@ -17,20 +17,16 @@
             </el-card>
             <el-menu
                     default-active="0"
-                    class="el-menu-vertical-demo"
-            >
-
-                <el-menu-item index="0" @click="$routerGo('/myInfo')">
-                    <i class="el-icon-menu"></i>
-                    <span slot="title">我的信息</span>
+                    class="el-menu-vertical-demo">
+                <el-menu-item v-show="item.show()" v-for="(item,index) in userMenu" :key="index" :index="'10-'+index"
+                              @click="!item.path?item.fun():$routerGo(item.path)">
+                    <i :class="item.icon"></i>
+                    <span slot="title">{{item.name}}</span>
                 </el-menu-item>
+
                 <el-menu-item index="1" @click="adminLogin">
                     <i class="el-icon-s-tools"></i>
                     <span slot="title">管理员登陆</span>
-                </el-menu-item>
-                <el-menu-item index="2" @click="$userInfo('clear')">
-                    <i class="el-icon-delete-solid"></i>
-                    <span slot="title">退出登录</span>
                 </el-menu-item>
             </el-menu>
         </div>
@@ -47,9 +43,21 @@
         name: "index",
         props: [''],
         data() {
-            return {}
+            return {
+                userMenu:[
+                    {name:'我的信息',path:'/myInfo',icon:'el-icon-menu',show:()=>{return this.showMenu()}},
+                    {name:'退出登录',path:'',icon:'el-icon-menu',fun:()=>{this.signOut()},show:()=>{return this.showMenu()}},
+                ]
+            }
         },
         methods: {
+            signOut(){
+                this.$userInfo('clear');
+                this.$routerGo('/my')
+            },
+            showMenu(){
+                return this.$userInfo().ids
+            },
             adminLogin(){
                 let admins=this.$router.resolve({
                     path:'/admin_login',

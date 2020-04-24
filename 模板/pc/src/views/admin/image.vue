@@ -39,7 +39,7 @@
         },
         methods: {
             deleteImg(row,index){
-                this.$api.delImage({ids:row.ids},res=>{
+                this.$api.del('Image',{ids:row.ids},res=>{
                     if(res){
                         this.tableData.splice(index,1)
                     }

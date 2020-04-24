@@ -86,6 +86,6 @@ export default class dydUtil{
     }
     util(data={}, url, callback, method='post'){
         data.$db='mysql'
-        utilServe(data,serveUrl+url,callback,method)
+        utilServe(data,serveUrl+url+'?'+data.$method+'-'+data.$table,callback,method)
     }
 }

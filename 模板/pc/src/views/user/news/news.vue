@@ -42,7 +42,7 @@
 
         },
         created() {
-            this.$api.getBlog({},res=>{
+            this.$api.get('news',{$orderBY: {col:'ids'}},res=>{
                 if(res) this.tableData=res
             })
         },
@@ -53,6 +53,6 @@
 
 <style scoped lang='scss'>
     #news {
-        padding:0 100px;
+        padding:0 20%;
     }
 </style>

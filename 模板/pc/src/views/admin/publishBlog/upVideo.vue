@@ -5,7 +5,7 @@
                 :action="$nodeUrl+'upFile'"
                 ref="upload"
                 :show-file-list="true"
-                :auto-upload="false"
+                :auto-upload="true"
                 :on-change="handleAvatarSuccess"
                 :on-success="success"
                 :before-upload="beforeAvatarUpload"

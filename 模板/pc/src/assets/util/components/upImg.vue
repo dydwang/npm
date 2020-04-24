@@ -92,7 +92,6 @@
     color: #8c939d;
     width: 120px;
     height: 70px;
-    line-height: 120px;
     text-align: center;
     margin-top: 50px;
   }

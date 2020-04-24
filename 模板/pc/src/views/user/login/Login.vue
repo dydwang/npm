@@ -4,7 +4,7 @@
             <p style="text-align: center">登陆</p>
             <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-width="60px" class="demo-ruleForm">
                 <el-form-item label="账号" prop="username">
-                    <el-input v-model="ruleForm.username"></el-input>
+                    <el-input v-model="ruleForm.username" placeholder="请输入账号或手机号"></el-input>
                 </el-form-item>
                 <el-form-item label="密码" prop="password">
                     <el-input v-model="ruleForm.password"></el-input>
@@ -19,7 +19,7 @@
             </div>
 
             <el-button type="text" @click="$routerGo('/signUp')">注册</el-button>
-            <el-button type="text" style="float: right" @click="$routerGo('/admin_login')">管理员登陆</el-button>
+            <el-button type="text" style="float: right" @click="$routerGo('/forget')">忘记密码？</el-button>
         </el-card>
     </div>
 </template>
@@ -50,7 +50,6 @@
         },
         methods: {
             getMakedCode(code){
-                console.log(code)
                 this.code=code
             },
             //更换验证码
@@ -66,11 +65,18 @@
                     this.$refs.ruleForm.validate((valid) => {
                         if (valid) {
                             delete this.ruleForm.veri
-                            that.$api.login(this.ruleForm, res => {
+                            let cnt={
+                                $where:{
+                                    password:this.ruleForm.password
+                                },
+                                $or:{
+                                    username:this.ruleForm.username,
+                                    phone:this.ruleForm.username,
+                                }
+                            }
+                            that.$api.get('user',cnt, res => {
                                 if (res.length) {
                                     that.$userInfo(res[0])
-                                    console.log(that.$userInfo())
-                                    this.$center.$emit('login',res[0])
                                     this.$routerGo('/myInfo')
                                 } else {
                                     this.$message.error('账号或密码错误')
@@ -87,7 +93,6 @@
         },
         mounted() {
             this.$refs.veri.makeCode('1234567890', 4);
-            console.log(sessionStorage.getItem('userInfo'))
         },
         created() {
             if(this.$userInfo.username){

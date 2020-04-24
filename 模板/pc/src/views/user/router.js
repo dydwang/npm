@@ -4,7 +4,9 @@ import index from './index'
 import my from './my/index'
 import myInfo from './my/myInfo'
 const Login  = ()=>import('./login/Login')
+const forget  = ()=>import('./login/forget')
 const signUp  = ()=>import('./login/signUp')
+
 import news from './news/news'
 import newsInfo from './news/newsInfo'
  let router=[
@@ -22,6 +24,11 @@ import newsInfo from './news/newsInfo'
                          path:'/myInfo',
                          name:'myInfo',
                          component:myInfo
+                     },
+                     {
+                         path:'/forget',
+                         name:'forget',
+                         component:forget
                      },
                      {
                          path:'/Login',

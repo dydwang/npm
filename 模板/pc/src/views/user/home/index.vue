@@ -1,7 +1,6 @@
 <template>
     <div id="index">
         <el-carousel height="500px"  type="card" :interval="2000">
-
             <el-carousel-item v-for="(item,index) in tableData" :key="index">
                 <img :src="$exImg+item.image"  width="100%" style="height: 500px">
             </el-carousel-item>
@@ -23,7 +22,7 @@
         methods: {
         },
         mounted() {
-            this.$api.getImage({},res=>{
+            this.$api.get('Image',{},res=>{
                 if(res) this.tableData=res;
             })
         },

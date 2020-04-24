@@ -66,9 +66,9 @@
         width: calc(100% + 30px);
     }
     #video{
-        margin-top: 20px;
-        width: 70%;
-        margin-left: 15%;
+
+        width: 100%;
+
     }
 
 </style>

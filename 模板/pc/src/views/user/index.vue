@@ -16,13 +16,13 @@
                     <el-tabs v-model="activeName" @tab-click="handleClickRouter" style="margin-top: 26px">
                         <el-tab-pane label="网站首页" name="/home"></el-tab-pane>
                         <el-tab-pane label="新闻资讯" name="/news"></el-tab-pane>
-                        <el-tab-pane label="加入我们" name="/joinWe"></el-tab-pane>
                         <el-tab-pane label="个人中心" name="/myInfo"></el-tab-pane>
                     </el-tabs>
                 </div>
             </el-header>
             <el-main>
-                <router-view></router-view>
+                <rightBox></rightBox>
+                <router-view style="min-height: 60vh"></router-view>
             </el-main>
             <el-footer height="16rem" >
                 <div style="margin: 0 auto;" id="we">
@@ -48,6 +48,7 @@
 </template>
 
 <script>
+    import rightBox from './rightBox'
     import search from './search'
     export default {
         name: "index",
@@ -84,7 +85,7 @@
         },
         created() {
         },
-        components: {search},
+        components: {search,rightBox},
         watch: {},
     }
 </script>

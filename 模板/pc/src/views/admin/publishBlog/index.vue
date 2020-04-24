@@ -56,7 +56,7 @@
             };
         },
         created() {
-            this.$api.getBlog({},res=>{
+            this.$api.get('news',{$orderBY: {col:'ids'}},res=>{
                 if(res) this.tableData=res
             })
         },
