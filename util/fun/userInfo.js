@@ -29,7 +29,7 @@ let store= new Vuex.Store({
             }
             else{
                 for(let c in  options){
-                    //Vue.set(state.user,`${c}`, options[c]);
+                    //Vue.set(state.viewUser,`${c}`, options[c]);
                     state.user[c]=options[c]
                 }
             }

@@ -382,7 +382,7 @@
 
     var config = ({
         /**
-         * Option merge strategies (used in core/util/options)
+         * Option merge strategies (used in core/dyd-util/options)
          */
         // $flow-disable-line
         optionMergeStrategies: Object.create(null),
@@ -5388,7 +5388,7 @@
         }
         Object.defineProperty(Vue, 'config', configDef);
 
-        // exposed util methods.
+        // exposed dyd-util methods.
         // NOTE: these are not considered part of the public API - avoid relying on
         // them unless you are aware of the risk.
         Vue.util = {
@@ -7661,7 +7661,7 @@
         }
     }
 
-    // check platforms/web/util/attrs.js acceptValue
+    // check platforms/web/dyd-util/attrs.js acceptValue
 
 
     function shouldUpdateValue (elm, checkVal) {

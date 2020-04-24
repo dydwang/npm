@@ -85,7 +85,7 @@ export default class dydUtil{
         serveUrl=serve //后台地址
     }
     util(data={}, url, callback, method='post'){
-        data.$db='mysql'
-        utilServe(data,serveUrl+url,callback,method)
+        data.$db='mongoDB'
+        utilServe(data,serveUrl+url+'?'+data.$method+'-'+data.$table,callback,method)
     }
 }

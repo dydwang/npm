@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8459dce3-1621-4080-bebd-da3bc4cdd518" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/.bin/semver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/.bin/semver.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/bl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/test/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bl/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/browser_build/bson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/browser_build/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/binary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/bson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/db_ref.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/decimal128.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/double.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/float_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/int_32.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/long.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/max_key.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/min_key.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/objectid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/parser/calculate_size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/parser/deserializer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/parser/serializer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/parser/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/regexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/symbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/lib/bson/timestamp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/bson/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/denque/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/denque/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/denque/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/denque/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/denque/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/memory-pager/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/memory-pager/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/memory-pager/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/memory-pager/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/memory-pager/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/memory-pager/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/aggregation_cursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/apm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/async/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/async/async_iterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/bulk/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/bulk/ordered.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/bulk/unordered.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/change_stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cmap/connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cmap/connection_pool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cmap/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cmap/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cmap/message_stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cmap/stream_description.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/command_cursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/auth_provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/defaultAuthProviders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/gssapi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/mongo_credentials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/mongocr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/plain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/scram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/sspi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/auth/x509.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/apm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/command_result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/msg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/pool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/connection/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/cursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/monitor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/server_description.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/server_selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/srv_polling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/topology.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sdam/topology_description.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/sessions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/tools/smoke_plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/topologies/mongos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/topologies/read_preference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/topologies/replset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/topologies/replset_state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/topologies/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/topologies/shared.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/transactions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/uri_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/compression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/get_more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/kill_cursors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/shared.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/core/wireprotocol/write_command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/cursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/dynamic_loaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/gridfs-stream/download.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/gridfs-stream/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/gridfs-stream/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/gridfs/chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/gridfs/grid_store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/mongo_client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/add_user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/admin_ops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/aggregate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/bulk_write.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/collection_ops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/collections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/command_v2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/common_functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/count_documents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/create_collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/create_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/create_indexes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/cursor_ops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/db_ops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/delete_many.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/delete_one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/distinct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/drop_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/drop_indexes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/estimated_document_count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/execute_db_admin_command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/execute_operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/find_and_modify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/find_one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/find_one_and_delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/find_one_and_replace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/find_one_and_update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/geo_haystack_search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/index_exists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/index_information.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/indexes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/insert_many.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/insert_one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/is_capped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/list_collections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/list_databases.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/list_indexes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/map_reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/options_operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/profiling_level.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/re_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/remove_user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/rename.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/replace_one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/set_profiling_level.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/stats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/update_many.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/update_one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/operations/validate_collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/read_concern.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/topologies/mongos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/topologies/native_topology.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/topologies/replset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/topologies/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/topologies/topology_base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/url_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/lib/write_concern.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/mongodb/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-cast-ids/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-cast-ids/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-cast-ids/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-fields/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-fields/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-fields/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-handle-callback/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-handle-callback/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-handle-callback/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-options/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-options/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-options/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-query/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-query/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-query/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-wait-for-connection/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-wait-for-connection/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk-middleware-wait-for-connection/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/LICENCE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/lib/applyMiddlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/lib/collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/lib/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/lib/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/lib/manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/lib/monk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/monk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/test/nestedTest/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/test/nestedTest/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/require_optional/test/require_optional_tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/resolve-from/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/resolve-from/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/resolve-from/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/resolve-from/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/code-points.mem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/generate-code-points.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/lib/code-points.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/lib/memory-code-points.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/lib/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/saslprep/test/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/bin/semver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/range.bnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/semver/semver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/node_modules/sparse-bitfield/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/0783e793f99253685843cb907497d520" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/07fcb75f08cafd4a1f67044c43017989" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/0ed3ad458fb9e58b7d5c1cee01546514" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/10aa93f7a2b8371eb808c7c9fe958599" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/15165091464116417f638dff28bf3306" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/1d497a6a3b01047caa1dcc4427f8d510" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/1f9cdc0a836b345347169123043d3bb9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/3bbc55bc495b6f84c63ae6635b531114" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/3c320201310a58e76084d10a92bc60b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/3d800a396d88b67e397eb5bc44e33e40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/50ca8eabda98cc42a96f29db8112b949" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/53b022dc5f503563105d32498ca49220" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/5920f266e604e45d7c4287a3f10af4c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/594e8fb9dede3da7fe0fa0cdb4c8068e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/59f2b009ba7481db85c45f8e35375386" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/5d406473acc2c08210bfa04156059f71" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/622454933b21e63dea7430337531ff6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/6555731e4d2c7a9927234e8725037b86" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/6de0b4b00c38aaa6ff15f0676c6d019f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/6f3baa502dcc12068aaed975fd1d93a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/7bea5e310325b79b0ad1a5b1d28195f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/7c33194b41620c9666af8b4a4c4bea03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/8002dcc5fbae56125d815369293bbdea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/8b58ae0d866950b420c7a181cea42c71" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/8f149a2ac821f7bec41ba813f78aab69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/addcf34c3001b10db4947efba8fd2428" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/ae1224fecc33d3dc49e5c610f6f51479" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/b3273b00d90b32dcc02362d0997983be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/b44ed0fb8b15a60f5d5f81c72b03b1ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/b5a646c3dd223b788b371c9f2be4a10e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/be7b41cfb2501b7efdd4ea70086c5a8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/c7f5863a1fea56a9d797eaa95e85cc86" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/ca03d62d5a55a85dd84f6bffd3d48041" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/cb756a891db0f96836fd3c41ce3cb48a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d0ffa620812e7e6cd86041829c8f33d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d1b37846b43e34b74a6d100c3ab6d076" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d1d4e91adb88825242ac19b2a2d61c7a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d4a2a0310840c6709814933fb96c70e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d8705671faffa4ff8dd4b2678850510c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d8f0ed323eae30dcef5a346dc0590c17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/d8fbc1914f05f566a37386a40976d05b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/daa2e6a012d473416c217c9f6df4dceb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/dc4c47dbd682ccbcdbe52d1fc65e49e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/e4365cc7c44236c97bed75ca4b2e201f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/ee9c1e9388b238cc3f5a1f4d0e958754" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/public/uploads/f77f66e6f2a7f9bd5fa4ce9671c29bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyd-node/sql/fun/linkMDB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/city_A_Z.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/dydPdf.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/dydVideo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/upImg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/upPdf.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/upVideo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/components/userImage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/data/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/data/city_A_Z.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/data/head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/Time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/city.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/excel/Blob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/excel/Export2Excel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/excel/export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/routerGo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/userInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/fun/ver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/lib/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/lib/crypto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/lib/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/lib/message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/lib/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/publicRouter/notFound.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/publicRouter/notFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/publicRouter/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/util/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/util/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/assets/util/util/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/table/db/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/table/db/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/table/db/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/table/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/table/tables.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/home/comment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/home/joinWe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/login/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/login/forget.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/login/signUp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/login/verification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/my/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/my/myInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/news/news.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/news/newsInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/rightBox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/viewUser/wx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/views/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/views/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/public/javascripts/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/public/javascripts/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/public/javascripts/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/public/javascripts/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/fun/linkMSQ.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/fun/linkMSQ.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/mysql.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/mysql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/table/comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/goods.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/table/goods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/pay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/pet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/petImg.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/table/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/table/news.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyd-node/sql/table/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/dyd-node/sql/table/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/components/upImg.vue" beforeDir="false" afterPath="$PROJECT_DIR$/util/components/upImg.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/components/userImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/util/components/userImage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/fun/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/fun/components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/fun/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/fun/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/fun/routerGo.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/fun/routerGo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/fun/userInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/fun/userInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/lib/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/lib/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/util/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/util/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/util/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/components/HeaderSearch/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/components/HeaderSearch/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/components/Tinymce/components/EditorImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/components/Tinymce/components/EditorImage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/layout/components/TagsView/ScrollPane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/layout/components/TagsView/ScrollPane.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/views/dashboard/admin/components/BoxCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/views/example/components/ArticleDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/views/example/components/ArticleDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/views/permission/directive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/pc/src/views/vue-element-admin/src/views/permission/directive.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/mock/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/mock/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/components/Breadcrumb/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/layout/components/Sidebar/Logo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/layout/components/Sidebar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/permission.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/permission.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/404.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/views/404.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/dashboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/form/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-admin-template/src/views/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu1/menu1-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu1/menu1-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu1/menu1-2/menu1-2-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu1/menu1-2/menu1-2-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu1/menu1-3/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/nested/menu2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-admin-template/src/views/tree/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/components/HeaderSearch/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/components/HeaderSearch/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/components/Tinymce/components/EditorImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/components/Tinymce/components/EditorImage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/layout/components/TagsView/ScrollPane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/layout/components/TagsView/ScrollPane.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/views/dashboard/admin/components/BoxCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/documentation/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/example/components/ArticleDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/views/example/components/ArticleDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/guide/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/guide/steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/views/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板/vue-element-admin/src/views/permission/directive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/模板/vue-element-admin/src/views/permission/directive.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dyd-node/bin/www">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dyd-node/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/util/package.json" />
+        <option value="$PROJECT_DIR$/dyd-node/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="npm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="npm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="npm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="npm" type="462c0819:PsiDirectoryNode" />
+              <item name="dyd-node" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\git\npm\模板\vue-element-admin\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\npm" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8459dce3-1621-4080-bebd-da3bc4cdd518" name="Default Changelist" comment="" />
+      <created>1587716704968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587716704968</updated>
+      <workItem from="1587716706723" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="418000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/util/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dyd-node/bin/www">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dyd-node/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

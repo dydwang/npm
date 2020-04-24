@@ -159,7 +159,7 @@ class Lmsq{
         return new Promise((rs,rj)=> {
             let $table = body.$table
             let $col = body.$col
-            let sql = 'create table ' + $table + '('
+            let sql = 'create mysql ' + $table + '('
             for (let i in $col) {
                 sql += i + ' ' + $col[i] + ','
             }

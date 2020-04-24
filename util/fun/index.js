@@ -8,6 +8,9 @@ import ver from './ver'
 import area from '../data/area'
 //import city from './city'
 import city_A_Z from '../data/city_A_Z'
+import dydRouter from '../publicRouter/router'
+import export_excel from './excel/export'
+
 function fun(Vue,options) {
     Vue.use(components)
 
@@ -36,7 +39,10 @@ function fun(Vue,options) {
 
     Vue.prototype.$city_A_Z=city_A_Z//全国城市A_Z列表
 
-    Vue.prototype.$exImg=nodeUrl+'getImg?imagePath='
+    Vue.prototype.$exImg=nodeUrl+'getImg?imagePath='//图片地址
 
+    Vue.prototype.$dydRouter=dydRouter  //公共路由
+
+    Vue.prototype.$export_excel=export_excel  //导出excel
 }
 export default fun

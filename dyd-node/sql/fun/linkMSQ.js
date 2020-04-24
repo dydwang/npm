@@ -68,7 +68,7 @@ class Lmsq{
 
             //排序
             if($orderBY){
-                sql+=`ORDER BY ${$orderBY.col} ${$orderBY.methods}`
+                sql+=` ORDER BY ${$orderBY.col} ${$orderBY.methods||'DESC'}`
             }
 
          //连接表
@@ -133,6 +133,43 @@ class Lmsq{
                 rs(r)
             })
         }})
+    }
+    //创建表
+    createTable(body){
+        return new Promise((rs,rj)=> {
+            let $table = body.$table
+            let $col = body.$col
+            let sql = 'create table tbl_' + $table + '('
+            for (let i in $col) {
+                sql += i + ' ' + $col[i] + ','
+            }
+            sql = sql.substr(0, sql.length - 1) + ')'
+            linkSql(sql).then(r => {
+                rs(r)
+            })
+        })
+    }
+
+    //删除表
+    deleteTable(body){
+        return new Promise((rs,rj)=> {
+            let $table = body.$table
+            let sql = 'DROP TABLE tbl_'+$table
+            linkSql(sql).then(r => {
+                rs(r)
+            })
+        })
+    }
+
+    // 清空表
+    clearTable(body){
+        return new Promise((rs,rj)=> {
+            let $table = body.$table
+            let sql = 'delete from tbl_'+$table
+            linkSql(sql).then(r => {
+                rs(r)
+            })
+        })
     }
 }
 

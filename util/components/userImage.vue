@@ -4,7 +4,7 @@
              :src="imgUrl+src"
              type='image/png;image/gif;image/jpg;'
         ><img v-show="!src" :style="{width: width,height: height,borderRadius:borderRadius }"
-              src="@/assets/head.jpg"
+              src="../data/head.jpg"
               type='image/png;image/gif;image/jpg;'>
     </div>
 
