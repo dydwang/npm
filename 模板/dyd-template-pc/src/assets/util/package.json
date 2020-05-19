@@ -1,0 +1,20 @@
+{
+  "name": "dyd-util",
+  "version": "1.0.9",
+  "description": "util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dydwang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "element-ui": "^2.13.0",
+    "model": "^6.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/dydwang/npm/tree/master/dyd-util"
+  },
+  "homepage": "https://github.com/dydwang/npm/tree/master/dyd-util"
+}
